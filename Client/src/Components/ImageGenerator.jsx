@@ -1,6 +1,6 @@
 import React from 'react'
 import classes from './ImageGenerator.module.css'
-import df from '../assets/react.svg'
+import df from '../assets/th.jpeg'
 const ImageGenerator = () => {
   return (
     <div className={classes.container}>
